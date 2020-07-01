@@ -21,7 +21,7 @@
     <jsp.version>2.3.1</jsp.version>
     <jstl.version>1.2.1</jstl.version>
     <jbcrypt.version>0.3m</jbcrypt.version>
-    <mySQLConnector.version>8.0.13</mySQLConnector.version>
+    <mySQLConnector.version>8.0.16</mySQLConnector.version>
     <hikariCP.version>3.3.1</hikariCP.version>
 
   </properties>
